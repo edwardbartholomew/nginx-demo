@@ -5,3 +5,6 @@ license 'all_rights'
 description 'Installs/Configures nginx-demo'
 long_description 'Installs/Configures nginx-demo'
 version '0.1.0'
+
+issues_url 'https://github.com/edwardbartholomew/nginx-demo/issues'
+source_url 'https://github.com/edwardbartholomew/nginx-demo'
