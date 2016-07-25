@@ -1,0 +1,7 @@
+name 'nginx-demo'
+maintainer 'Ed Bartholomew'
+maintainer_email ''
+license 'all_rights'
+description 'Installs/Configures nginx-demo'
+long_description 'Installs/Configures nginx-demo'
+version '0.1.0'
